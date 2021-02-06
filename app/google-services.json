@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977687072244",
+    "project_id": "martsystem",
+    "storage_bucket": "martsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977687072244:android:b373f54e66cb5da2d33da1",
+        "android_client_info": {
+          "package_name": "com.example.martsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977687072244-to8ac1onj9nohqhjsi1dndfp4m3rj1lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXbPP4ZV6M9Qk_nOQYmZvJhNEidQOmU9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977687072244-to8ac1onj9nohqhjsi1dndfp4m3rj1lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
